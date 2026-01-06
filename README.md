@@ -113,7 +113,7 @@ The application is a **desktop-only system** built with **Tkinter**, providing:
 - CSV / Excel export utilities
 
 **Development environment:**  
-Visual Studio Code / PyCharm / Anaconda
+PyCharm
 
 ---
 
